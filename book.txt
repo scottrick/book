@@ -1,7 +1,44 @@
-Book Project
-June 11th, 2012
-Scott Atkins
++----------------------------------
+|  Book Project
+|  June 11th, 2012
+|  Scott Atkins
++----------------------------------
 
+===================================
 IDEAS:
+===================================
 
-A book about what makes different people happy.  
+A book about what makes different people happy, and what they want in life.
+
+===================================
+PEOPLE:
+===================================
+
+David: A computer programmer who is frustrated with his life because he's single and has very poor social skills.  He feels like his life has no purpose because he feels his life has no meaning.  What makes him happy:  improving the life of his girlfriend (Girl_1?)
+
+Andrew: A smart and social man who is great with people.  Looking for money and power his whole life but it is only an empty happiness?  Maybe he is a sad character?   What makes him happy:  I don't know, but I think the point of this character should be to illustrate that its not money or power that makes somebody happy.
+
+Girl_1 1: Girl_1 wants desperately to be in love but looks for it in all the wrong places.  She realizes that love isn't something you can force or pick or choose; its something that happens.  She goes on one date with David  but shoots him down for sex with Andrew but it leaves her empty.  Maybe david is the one for her in the end?  What makes her happy: finding somebody to love with all her heart.
+
+===================================
+PLOT SUMMARY:
+===================================
+
+?
+
+
+===================================
+BOOK:
+===================================
+
+ --> Introduction
+
+For years there's been one question I've been trying to decide:  What makes you happy?  
+
+The more I think about it the more I realize its not what we think should.  We find happiness in the most unlikely places and the most unlikely people.
+
+Take me for example.  I'm 24 years old.  I graduated from college just two years ago and I'm single.  During weekdays, I spend my time plunking away at a keyboard writing software.  Its challenging work, some of the time, and the rest of the time its just boring.  I want more than this, but I'm not sure where to look.  
+
+ --> Chapter One
+ 
+ All I can hear is the sound of a siren blaring in my ear.  Peeking up at my rearview window, I can see an officer stepping slowly towards my car as I slowly let out a sigh.
