@@ -10,22 +10,22 @@ also, the twelve character archetypes: http://www.soulcraft.co/essays/the_12_com
 
 Character 1 - ROGUE
 ------------------------
-A local person on the planet who is recruited by the LEADER to help take the person of importance away from the COMMANDER's forces to safety.
+A young man in the planetary defense force, who works with the LEADER in defense of the planet.  When the LEADER needs help to take his granddaughter to safety, the ROGUE suggests the plan to take the grand daughter to a smuggler he knows (if the LEADER pays for the smuggler's service) and take her away.  In reality, the smuggler doesn't exist and he only wants a reason to take the LEADER's money.  
 
- - Basic story is that of a QUEST.
+ - Basic story is that of a QUEST of greed.
  - alignment Chaotic Neutral.
 
-The ROGUE is a young man in his twenties.  He thinks of only himself.  He cannot be convinced by the LEADER to help the person of interest by appealing to his sense of goodness, so instead the LEADER resorts to money.  The ROGUE is revealed to be playing both sides of the coin, however, as it is revealed that the COMMANDER had paid the rogue to infiltrate and recover the person of importance anyway possible.  
+The ROGUE is a young man in his twenties.  He thinks of only himself.  The ROGUE is revealed to be an opportunist when he later learns of the possibility of selling the LEADER's daughter to the empire for money.
 
 
 Character 2 - LEADER
 ------------------------
-A local leader who also lives on the planet.  He is ancient a tactical genius, who manages to keep one step ahead of the almost as brilliant commander.
+A local leader who also lives on the planet.  He is ancient a tactical genius, attempting to defend his homeworld from the overwhelming forces of the COMMANDER.  Its a difficult task, and it seems the only possible outcome is that of delaying the inevitable.
 
  - Basic story is that of TRAGEDY.  
  - alignment Lawful Good.
 
-The leader is an elderly man, who believes there is good in every person.  He has been a defender of the PoI their entire life.  He is a brilliant natural tactician and strategist, although his methods can be somewhat unorthodox at times.  
+The leader is an elderly man, who believes there is good in every person.  He has been a defender of his planet for the majority of his life, and cares for his granddaughter since her parents have passed away.  He is a brilliant natural tactician and strategist, although his methods can be somewhat unorthodox at times.  
 
 
 Character 3 - COMMANDER
@@ -34,37 +34,57 @@ The commander of the invasion fleet, her story follows her thoughts and decision
  
  - Basic story is that of REBIRTH.
  - alignment Lawful Neutral, changes to Neutral Good.
- - WHY does she have a rebirth?  Death of a friend?
+ - WHY does she have a rebirth?  Her whole life she has always trusted in the fact that she is always right, and correct.  When she realizes that the empire has tricked her into hunting down a false fugitive, she loses faith in her judgement and calls to question everythign she has fought for.
 
-A defining characteristic of the commander has to be shaken or totally destroyed, in order for her transformation to be believable.  What is it?
+A defining characteristic of the commander has to be shaken or totally destroyed, in order for her transformation to be believable.  What is it?  Answer: It is her confidence in herself.
 
-The commander is young, calculating, and careful.  All of her experience (little as it may be) has taught her that with careful calculation, all errors can be avoided.  Her primary objective is to capture the planet with minimal losses.  She has calculated her plan down to the letter and has conceived of every possible outcome - preparing for each one.  The commander isn't evil - she thinks of herself as just and simply carrying out her duty for the good of the empire.  When the LEADER reveals his plan, and how he has outmanuevered the commander, she loses control and kills the leader.  This is the moment that shakes her long held beliefs about what she does.  
+The commander is young, calculating, and careful.  All of her experience (little as it may be) has taught her that with careful calculation, all errors can be avoided.  Her primary objective is to capture the planet with minimal losses so that the enemy person of importance can be taken into custody.  She has calculated her plan down to the letter and has conceived of every possible outcome - preparing for each one.  The commander isn't evil - she thinks of herself as just and simply carrying out her duty for the good of the empire.  When it becomes aparant that the person of importance isn't real, and that she captured a little girl and killed her father for a lie, her confidence is destroyed.  This is the moment that shakes her beliefs and changes who she is.
 
 
 Character 4 - PERSON OF IMPORTANCE
 ------------------------
-The person of importance that the leader must save.  A young girl (10?).  The person of importance turns out to be a fake, and in reality is the LEADER's daughter, whom he has used a a decoy while the real person of importance is sent in another direction.
+The person of importance is the leader's granddaughter.  A young girl (14-18?).  In reality, the person of importance doesn't exist and was made up by the empire as an excuse to conquer this planet.  The leader has no knowledge of the whole "plan to capture the PoI" and is merely doing his absolute best to save his daughter.
 
 
 Basic Plot
 ------------------------
-The COMMANDER is overseeing the capture of this planet.  The planet has seemingly no chance - the commander's forces outnumber the local forces one hundred to one, and are much better equipped and trained.
 
-LEADER is hopelessly holding off an attack from the COMMANDER's forces.  ROGUE is enlisted to help save a person of importance by the LEADER.  The leader tries to appeal to the rogue's goodness, but the rogue resists and eventually the leader resorts to money.  The leader has a genuinely tearful and sad goodbye with the person of importance, but eventually sends them away to safety.  They plan to meet later at a designated rendezvous point.
+Chapter 1
+The COMMANDER is overseeing the conquest of a planet in order to secure the capture of an important criminal against the Empire.  The planet has seemingly no chance - the commander's forces outnumber the local forces ten to one, and are better equipped with superior firepower.  The commander briefs her senior officers with an update on the war, plans for the future, and reminds them of the over-arching goal of capturing the Person of Importance.  The war is going well, but she has learned that the enemy LEADER is taking a personal interest in keeping the person of importance safe.  To combat this, she has a plan...  
 
-The ROGUE and the Person of Importance flee from the last defended compound, but instead of taking her to the rendezvous point where the Person of importance can be hidden, the ROGUE stops off at his hideaway and stashes his money.  Here it becomes aparent of his true chaotic neutral nature, and that he truly only cares for himself.  
+Chapter 2
+LEADER is hopelessly holding off an attack from the COMMANDER's forces.  After intercepting an enemy patrol with the ROGUE (with a trap, perhaps?), he discovers that the COMMANDER's forces are hunting for his granddaughter and that they think she is a fugitive of the empire.  This is very confusing to him and he doen't understand why she would be a target, but realizes he must come up with a plan to save his granddaughter either way.
 
-LEADER is captured in a valiant last stand.  Even in defeat, he is confident that his plan of getting the person of importance away was successful.
+Chapter 3
+After returning from the raid on the COMMANDER's forces, the LEADER discusses his concerns with his officers when the ROGUE expresses interest in taking the LEADER's daughter away to safety.  He says he can arrange transport away through a smuggler he knows, if only the LEADER will cover the costs of hiring the smuggler.  The LEADER gives in and sends his daughter away with the ROGUE and two other hand-picked guards.  The LEADER and the ROGUE make plans to rendezvous at a later time, when the danger to his daughter has passed.
 
-COMMANDER and the LEADER meet.  The commander has admiration for the leader's perserverence in the face of such overwhelming force.  The leader reveals that the rogue was a double agent, and that even as resourceful as the leader was, it was all in vain. 
+Chapter 4
+The COMMANDER initiates a devastating attack on the LEADER's compound.  The ROGUE, the two guards, and the Person of Importance flee from the last defended compound barely escaping with their lives.  But instead of going to the rendezvous point, he begins planning a way to get rid of the other two guards so he can keep the money for himself.  
 
-LEADER reveals his masterstroke - the person of importance was a decoy (his very own daughter, maybe?).  The COMMANDER's confidence is shattered and sends her into a fit of rage.  She kills the LEADER.  This changes the COMMANDER.  The commander has always thought of herself as a just leader.  But in the end she realizes that all she really cares about is her pride.  She has been the best at everything for as long as she can remember - is that all that matters?  She was out-smarted by an old man with a rag-tag force.  Maybe there is more that matters in this life than being the best.  There is always someone better than you.  
+CHAPTER 5
+LEADER is captured in a valiant last stand.  Even in defeat, he is happy in the knowledge that he was able to get his granddaughter away to safety.
 
-The commander has a realization that being the best isn't the end all of everything.  Even if she was the greatest military commander and had not been outwitted by an old man, she realizes it wouldn't change anything.  She realizes what her arrogance has cost her - and the harm it has done, even though it might have been done with the greater good of the empire in mind.  She resolves that she will change, and that she will not be a slave to her rage.  She plans to pay the rogue for hte fake person of interest even though she is not the girl she needs.  Once the girl is in her hands, she can take her away and right her wrong. 
+CHAPTER 6
+On his way to meet the "smuggler," the ROGUE realizes that the COMMANDER's forces are searching for the very girl he is taking away!  He soon plans a way to solve both his problems at once.  He plans to cash in twice by selling the girl to the COMMANDER and getting rid of the two guards at the same time.  Here it becomes aparent of his true chaotic neutral nature, and that he truly only cares for himself.  
 
-The COMMANDER and the ROGUE meet, with the fake person of importance brought in delivery (the rogue still is unaware this is a fake person of importance).  The rogue demands more payment, and threatens to kill the fake person of importance if the commander does not give in.  The commander seemingly gives in to the rogue's demand, and presents payment.  However, just as the rogue lets his guard down, thinking he's won, the commander shoots him dead.  
+CHAPTER 7
+COMMANDER and the LEADER meet.  The commander has admiration for the leader's perserverence in the face of such overwhelming force.  The LEADER reveals that the Person of importance was simply his grand daughter and demands to know why the COMMANDER has taken such an interest in her.  Stunned, the COMMANDER has a breakdown and thinks the LEADER must be lying, killing him in a fit of rage.  Somehow she realizes that the LEADER was telling the truth however.
 
-The commander takes the fake person of importance and flees, abandoning her duty and promising to care for the fake person of importance until she grows up.
+CHAPTER 8
+The ROGUE delivers the girl but the COMMANDER has transformed into her new self.
+
+CHAPTER 9
+The COMMANDER defects and returns the girl return to the planet!
+
+
+
+LEADER reveals his masterstroke - the person of importance was a decoy (his very own (grand) daughter).  The COMMANDER's confidence is shattered and sends her into a fit of rage.  Her mission is a failure!  Capturing the person of importance was the primary objective.  In anger, she kills the LEADER.  This changes the COMMANDER.  The commander has always thought of herself as a just leader.  But in the end she realizes that all she really cares about is her pride.  She has been the best at everything for as long as she can remember - is that all that matters?  Its easy to be cool and calm and just when everything goes your way, she thinks.  When it is difficult is whne you are losing and not on your best footing.  She was out-smarted by an old man with a rag-tag force.  Maybe there is more that matters in this life than being the best.  There is always someone better than you.  
+
+The commander has a realization that being the best isn't the end all of everything.  Even if she was the greatest military commander and had not been outwitted by an old man, she realizes it wouldn't change anything.  Her constant vigil on being correct and the best made her blind to the fact that maybe the underlying motives of the whole campaign were wrong.  Now is when she realizes that there is no real person of importance - it was all a front by the empire to justify the war.  Her own obsession with winning every battle and every war made her blind to that fact.  But now she realizes her error and resolves that she will change.  She plans to pay the rogue for young girl, even though she knows that it isn't a real person of importance.  Once the girl is in her hands, she can take her away and right her wrong. 
+
+The COMMANDER and the ROGUE meet, with the fake person of importance brought in delivery (the rogue still is unaware this is a fake person of importance).  The rogue demands more payment, and threatens to kill the girl if the commander does not give in.  The commander seemingly gives in to the rogue's demand, and presents payment.  However, just as the rogue lets his guard down, thinking he's won, the commander shoots him dead.  
+
+The commander takes the fake person of importance and flees, abandoning her duty and taking the place of the LEADER for the planets' defenses - promising to care for the fake person of importance until she grows up.
 
 
 
