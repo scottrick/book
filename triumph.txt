@@ -10,7 +10,7 @@ also, the twelve character archetypes: http://www.soulcraft.co/essays/the_12_com
 
 Character 1 - ROGUE
 ------------------------
-A young man in the planetary defense force, who works with the LEADER in defense of the planet.  When the LEADER needs help to take his granddaughter to safety, the ROGUE suggests the plan to take the grand daughter to a smuggler he knows (if the LEADER pays for the smuggler's service) and take her away.  In reality, the smuggler doesn't exist and he only wants a reason to take the LEADER's money.  His quest for money eventually costs him his right eye, and then his life.  
+A young man in the planetary defense force, who works with the LEADER in defense of the planet.  When it becomes apparent that the granddaughter is being targeted for some reason, the LEADER decides to make plans for his daughters safety.  The ROGUE suggests to take the granddaughter to a safe house he knows of, for a large sum of money.  In reality, the smuggler doesn't exist and the ROGUE reveals himself to be an opportunist only caring for himself.  His quest for money eventually costs him his right eye, and then his life.  
 
  - Basic story is that of a QUEST of greed.
  - alignment Chaotic Neutral.
@@ -22,7 +22,7 @@ Character 2 - LEADER
 ------------------------
 A local leader who also lives on the planet.  He is ancient a tactical genius, attempting to defend his homeworld from the overwhelming forces of the COMMANDER.  Its a difficult task, and it seems the only possible outcome is that of delaying the inevitable.
 
- - Basic story is that of TRAGEDY.  
+ - Basic story is that of TRAGEDY.
  - alignment Lawful Good.
 
 The leader is an elderly man, who believes there is good in every person.  He has been a defender of his planet for the majority of his life, and cares for his granddaughter since her parents have passed away.  He is a brilliant natural tactician and strategist, although his methods can be somewhat unorthodox at times.  
@@ -38,28 +38,28 @@ The commander of the invasion fleet, her story follows her thoughts and decision
 
 A defining characteristic of the commander has to be shaken or totally destroyed, in order for her transformation to be believable.  What is it?  Answer: It is her confidence in herself.
 
-The commander is young, calculating, and careful.  All of her experience (little as it may be) has taught her that with careful calculation, all errors can be avoided.  Her primary objective is to capture the planet with minimal losses so that the enemy person of importance can be taken into custody.  She has calculated her plan down to the letter and has conceived of every possible outcome - preparing for each one.  The commander isn't evil - she thinks of herself as just and simply carrying out her duty for the good of the empire.  When it becomes aparant that the person of importance isn't real, and that she captured a little girl and killed her father for a lie, her confidence is destroyed.  This is the moment that shakes her beliefs and changes who she is.
+The commander is young, calculating, and careful.  All of her experience (little as it may be) has taught her that with careful calculation, all errors can be avoided.  Her primary objective is to capture the planet with minimal losses so that the enemy person of importance can be taken into custody.  She has calculated her plan down to the letter and has conceived of every possible outcome - preparing for each one.  The commander isn't evil - she thinks of herself as just and simply carrying out her duty for the good of the empire.  When it becomes aparant that the person of importance isn't an enemy leader, or an enemy general, but the enemy general's daughter, she realizes that the empire she is serving is NOT good and just.  The empire wanted to use the LEADER's granddaughter as leverage - as a tool to bring the great general to his knees.  When she realizes that she captured a little girl and killed her grandfather for a lie, her confidence is destroyed.  This is the moment that shakes her beliefs and changes who she is.
 
 
 Character 4 - PERSON OF IMPORTANCE
 ------------------------
-The person of importance is the leader's granddaughter.  A young girl (14-18?).  In reality, the person of importance doesn't exist and was made up by the empire as an excuse to conquer this planet.  The leader has no knowledge of the whole "plan to capture the PoI" and is merely doing his absolute best to save his daughter.
+The person of importance is the leader's granddaughter.  A young girl (14-18?).  In reality, the person of importance isn't who the COMMANDER thinks she is.  She is lead to believe that the person of importance is an evil mastermind of the enemy, responsible for turning the enemy against the empire.  the empire knows that the POI is actually the great LEADER's daughter and wants to use her to break the LEADER.  The leader has no knowledge of the whole "plan to capture the PoI" and is merely doing his absolute best to keep his granddaughter safe.
 
 
 Basic Plot
 ------------------------
 
 Chapter 1
-The COMMANDER is overseeing the conquest of a planet in order to secure the capture of an important criminal against the Empire.  The planet has seemingly no chance - the commander's forces outnumber the local forces ten to one, and are better equipped with superior firepower.  The commander briefs her senior officers with an update on the war, plans for the future, and reminds them of the over-arching goal of capturing the Person of Importance.  The war is going well, but she has learned that the enemy LEADER is taking a personal interest in keeping the person of importance safe.  To combat this, she has a plan...  
+The COMMANDER is overseeing the conquest of a planet in order to secure the capture of an important criminal against the Empire.  The planet has seemingly no chance - the commander's forces outnumber the local forces ten to one, and are better equipped with superior firepower.  After receiving new orders from high command, she briefs her sernior officers with the updated battle strategy - to capture the PoI.  The war is going well, but she has learned that the enemy LEADER is taking a personal interest in keeping the person of importance safe.  To combat this, she has a plan...  
 
 Chapter 2
-LEADER is hopelessly holding off an attack from the COMMANDER's forces.  After intercepting an enemy patrol with the ROGUE (with a trap, perhaps?), he discovers that the COMMANDER's forces are hunting for his granddaughter and that they think she is a fugitive of the empire.  This is very confusing to him and he doen't understand why she would be a target, but realizes he must come up with a plan to save his granddaughter either way.
+LEADER is hopelessly holding off an attack from the COMMANDER's forces.  After intercepting an enemy patrol with the ROGUE (with a trap, perhaps?), he discovers that the COMMANDER's forces are hunting for his granddaughter but he is not certain why.  This is very confusing to him, but realizes he must come up with a plan to save his granddaughter either way.
 
 Chapter 3
-After returning from the raid on the COMMANDER's forces, the LEADER discusses his concerns with his officers when the ROGUE expresses interest in taking the LEADER's daughter away to safety.  He says he can arrange transport away through a smuggler he knows, if only the LEADER will cover the costs of hiring the smuggler.  The LEADER gives in and sends his daughter away with the ROGUE and two other hand-picked guards.  The LEADER and the ROGUE make plans to rendezvous at a later time, when the danger to his daughter has passed.
+After returning from the raid on the COMMANDER's forces, the LEADER discusses his concerns with his officers when the ROGUE expresses interest in taking the LEADER's daughter away to the safety of a safehouse.  He says he can arrange transport away through a smuggler he knows, if only the LEADER will cover the costs of hiring the smuggler.  The LEADER gives in and sends his daughter away with the ROGUE and two other hand-picked guards.  The LEADER and the ROGUE make plans to rendezvous at a later time, when the danger to his daughter has passed.
 
 Chapter 4
-The COMMANDER initiates a devastating attack on the LEADER's compound.  The ROGUE, the two guards, and the Person of Importance flee from the last defended compound barely escaping with their lives.  But instead of going to the rendezvous point, he begins planning a way to get rid of the other two guards so he can keep the money for himself.  
+The COMMANDER initiates a devastating attack on the LEADER's compound.  The ROGUE, the two guards, and the leader's granddaughter flee from the last defended compound barely escaping with their lives.  But instead of going to safehouse where they planned to hide, he begins planning a way to get rid of the other two guards so he can keep the money for himself.  
 
 CHAPTER 5
 LEADER is captured in a valiant last stand.  Even in defeat, he is happy in the knowledge that he was able to get his granddaughter away to safety.
@@ -68,13 +68,13 @@ CHAPTER 6
 On his way to meet the "smuggler," the ROGUE realizes that the COMMANDER's forces are searching for the very girl he is taking away!  He soon plans a way to solve both his problems at once.  He plans to cash in twice by selling the girl to the COMMANDER and getting rid of the two guards at the same time.  Here it becomes aparent of his true chaotic neutral nature, and that he truly only cares for himself.  
 
 CHAPTER 7
-COMMANDER and the LEADER meet.  The commander has admiration for the leader's perserverence in the face of such overwhelming force.  The LEADER reveals that the Person of importance was simply his grand daughter and demands to know why the COMMANDER has taken such an interest in her.  Stunned, the COMMANDER has a breakdown and thinks the LEADER must be lying, killing him in a fit of rage.  The COMMANDER is shaken and can't believe what she has done - this isn't who she wants to be.
+COMMANDER and the LEADER meet.  The commander has admiration for the leader's perserverence in the face of such overwhelming force.  The LEADER begs the commander to leave his granddaughter unharmed - he cannot understand why the COMMANDER would want her!  The COMMANDER is stunned to hear the the PoI she has spent so much time and resources into capturing is merely the LEADER's granddaughter.  The COMMANDER has a breakdown, and in a crucial moment kills the LEADER in a fit of rage.  The COMMANDER is shaken to the core.  This isn't the person she wants to be.  She killed a great man for a lie; a lie told to her by her superiors.
 
 CHAPTER 8 
 The ROGUE meets resistance from the girl, since she realizes that the ROGUE is going to bring her to the COMMANDER for the reward money.  On the way to the COMMANDER's ground headquarters, some sort of resistance is met and the ROGUE is badly hurt, losing an eye in the process?  
 
 CHAPTER 9
-The COMMANDER reflects on her life, her decisions, and her recent actions.  Investigating the LEADER's claim that the girl is simply his granddaughter and not a great enemy of the empire, she discovers that she has been misled and used.  She resolves to make things right...
+The COMMANDER reflects on her life, her decisions, and her recent actions.  Investigating the LEADER's claim that the girl is simply his granddaughter and not a great enemy of the empire, she discovers that she has been misled and used.  She discovers the empire's plan to break the resistance by using the PoI as leverage against the LEADER.  She resolves to make things right...
 
 CHAPTER 10
 The ROGUE delivers the girl but the COMMANDER has transformed into her new self.  When the ROGUE demands even more payment for the loss of his eye, and threatens to kill the girl if the COMMANDER doesn't comply, the COMMANDER tricks the ROGUE into thinking he has won, but in the critical moment (and climax) kills the ROGUE and flees with the girl.
@@ -82,18 +82,61 @@ The ROGUE delivers the girl but the COMMANDER has transformed into her new self.
 EPILOGUE
 The COMMANDER has defected and returned with the leader's granddaughter to help the locals in their fight against the empire.
 
+CHAPTERS
 
-
-
-Chapters
 ------------------------
 
-COMMANDER 1
+CHAPTER ONE
 
-The ship was huge.  Gargantuan, really.  It was more like a ship of ships than a single spacecraft.  It carried with it through the blackness of space hundreds of smaller space vessels, many of those having their own ships as well.  In a very similar fashion to that of the old Earth carriers on the sea, except multiplied a hundred times. 
+The ship is huge.  Gargantuan, really.  It is more like a ship of ships than a single spacecraft.  It carries with it through the blackness of space hundreds of smaller space vessels.  Many of those ships support their own squadrons of starfighters as well - in a very similar fashion to that of the old Earth carriers of the sea.  Except multiplied a hundred times. 
 
-This was the only vessel they sent, too, and it would be all that was needed.  The planet had only a limited population of several hundred thousand, with little technology that could allow them to compete.  The ship exited trans-space after several weeks of travel and stayed in orbit for a couple days, making preparation, before the assault began.  Of course, the humans on the surface hadn't any idea that the craft was even in orbit.  Even with the ship's massive size, precautions could (and were) taken by the ship's commander to be sure the inhabitants of the planet did not detect the vessel before the appropriate time.  To think in the end, the whole episode lasted just under two weeks!
+This is the only vessel that was sent, and it would be all that is needed.  The planet has only a limited population of several hundred thousand, with little technology that could allow them to compete.  The ship exited trans-space after several weeks of travel and had stayed in orbit for a couple days already, making preparations.  Of course, the humans on the surface have no real idea of what awaits them.  Many of them likely didn't realize the craft was even in orbit.  Even with the ship's massive size, precautions could (and were) taken by the ship's commander to be sure the inhabitants of the planet detected almost nothing before it was too late.
 
-The commander was a hard and young woman, prepared for missions such as this.  Molded by years of training, she carried out her duties effectively and with little remorse or joy.  Years before she had entered the service, the "letter of the law" had always been her lifeline.  It doesn't matter if its good or evil, all that matters is if something is lawful and just.
+Commander Paxi was a hard and young woman, who has prepared for missions such as this her whole life.  Molded by years of training, she carried out her duties effectively and with little remorse or joy.  Years before she had entered the service, the "letter of the law" had always been her lifeline.  It doesn't matter if its good or evil, all that matters is if something is lawful and just.
 
-From orbit, everything seems tiny - like a collection of model ships on a child's playmat.  She was able to move about her forces with the same ease that a child might move about a play fighter.  Her command ship had arrived only three days ago and already it was time to begin preparations for their departure.  
+From orbit, everything seems tiny - like a collection of model ships on a child's playmat.  She was able to move about her forces with the same ease that a child might move about a toy ship.  Her command ship had arrived only three days ago and already it was time to begin preparations for their departure.  
+
+"Commander Paxi, we have a message from Deacon Marcus," stated a communications officer sharply as he looked up from his console.  
+
+"Send it to my quarters," she said as she stepped down from her command console.  A few quick presses and her station was locked and she was moving towards her private room.  As is tradition, the commander's quarters were very near the bridge of the ship, so she was always close to the command center should something arise.  More and more commanders in the fleet were taking to moving them towards the center of the ship, closer to the mess hall and other amnemities.  Paxi, however, had not, and thought those other commanders to be lax.
+
+She stepped quickly stepped off off of the bridge through the archway into her quarters and her the doors close behind her.  Her private computer terminal sprang to life in front of her, floating in the air.  The system was of a newer design than her previous command and much more efficient.  With a flick of her hand she accessed her military messages and started playing her message from Marcus.
+
+An old man, dressed in a dark green uniform decorated with black emblems in the shape of flowers, looked at her and began speaking.
+
+"Greetings Commander Paxi.  I trust that your arrival at Vienna Prime has gone smoothly.  I know you don't like idle talk so I will get straight to business."  
+
+The man adjusted his shirt and pointed to his left.  Floating next to the video of the officer, another computer display jumped into existance, but this display only showed a static image of a girl.  Paxi knew immediately that the woman must live on the planet below.  Her hair was as black as space itself, but the thing that gave it away was the girl's eyes.  Her eyes were a blazing deep red - the color the three ball would have in a game of billiards.  Her eye's were remarkable, or would have been remarkable if the commander hadn't already been briefed on the particularities of the planet below.  
+
+While Vienna Prime was a fairly good planet for human colonization (as far as planets go), this planet had a peculiar effect on humans.  Inevitably, human's who lived on Vienna Prime's eye's would change color.  The longer a person lived on the world, the more orange, and eventually red, their eyes would become.  This girl - this woman infact, had the most stunningly beautiful red eyes that Paxi knew immediately she had to have been born on the planet below, and spent the majority of her life there.  It was as simple as that.
+
+"This insurgent is your new number one objective," he stated very matter of factly.  "As you know, negotiations have been ongoing, but largely unsuccessfull.  Recently, some progress had been made.  Until it was destroyed by this woman."    
+
+The floating video of the woman pulled outward to show her whole frame.  A thin waits and healthy features filled the screen.
+
+[i]Unremarkable,[/i] thought Paxi, [i]other than the eyes.[/i]
+
+She returend her attention to the video.  
+
+"Her name is Kora, and she is your new number one objective."  Marcus dropped his left hand and the image of the woman dissappeared moments after.  "Good hunting," he said, and then vanished himself.
+
+Paxi looked away from the empty space where Marcus' computer shade had just been and turned to her window.  Windows are a luxery on a spacecraft.  Its much easier to construct a craft that doesn't have any viewports.  Windows are weaker than reinforced hull.  They are more expensive, and much more prone to problems.  But the let you see.  And at this very moment Paxi could see the planet where this woman Kora lived.  
+
+She would find Kora - it was inevitable.  A plan was already forming in Paxi's mind.  She turned quickly and walked straight towards her door, barely opening in time before she burst back on to the bridge.  Her crew jumped to the ready, becoming even more alert now that they were in her precense.  
+
+"We will begin as planned in one hour," she announced to her officers, "with one small change."  
+
+The main bridge viewscreen was displaying a realtime picture of the planet below, literred with information and statistics about the coming assault.  Turning to a nearby console, she made several quick motions with her hands and then the photo of Kora appeared on the screen, next to her planet.  Her officers couldn't help but notice her red eyes shining like rubies next to her world.  
+
+"This is the face we are after."  Paxi said.  "Conquest of this world is inevitable, but there is an opportunity for us to show our abilities.  This woman is an important leader of theirs, and the sooner we can capture her, the sooner her world will fall."
+
+Paxi stepped off the bridge back towards her quarters, raising her hand with one finger pointed towards the ceiling as she walked. 
+
+"One hour."
+
+
+
+
+------------------------
+
+CHAPTER TWO
