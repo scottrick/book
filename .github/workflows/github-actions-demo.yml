@@ -50,6 +50,8 @@ jobs:
       - run: echo "Current word count ${{needs.countCurrentJob.outputs.wordCount}}"
       - name: Check out repository code
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 2
       - run: |
             git checkout HEAD~1
             git add -A
