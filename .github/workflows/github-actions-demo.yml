@@ -1,6 +1,6 @@
 name: Word Count
 on:
-  push:
+  pull_request:
     paths:
       - '**.txt'
       - '**.md'
@@ -57,5 +57,5 @@ jobs:
             git config --global user.name "Scott[Bot]"
             git reset HEAD~1
             git add -A
-            git commit -m "test message??"
+            git commit -m "test message HATFAT !!"
             git push -f
