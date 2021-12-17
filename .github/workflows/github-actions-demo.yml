@@ -4,6 +4,7 @@ on:
     paths:
       - '**.txt'
       - '**.md'
+      - '**.yml' #delete me
 jobs:
   countJob:
     runs-on: ubuntu-latest
