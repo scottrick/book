@@ -28,6 +28,12 @@ jobs:
       - name: WC
         run: |
           wc -w < book.txt
+      - name: loop
+        run: |
+          for i in $(find .);
+          do
+            echo i
+          done;
       - run: echo "🍏 This job's status is ${{ job.status }}."
   resultsJob:
     runs-on: ubuntu-latest
