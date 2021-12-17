@@ -32,7 +32,7 @@ jobs:
         run: |
           for i in $(find .);
           do
-            echo i
+            echo $i
           done;
       - run: echo "🍏 This job's status is ${{ job.status }}."
   resultsJob:
