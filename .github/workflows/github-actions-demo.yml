@@ -30,11 +30,12 @@ jobs:
       - name: WC
         run: |
           wc -w < text/book.txt
-      - name: loop
+      - name: loopcount
+          
         run: |
           for i in $(find ./ -type f \( -iname \*.txt -o -iname \*.md \));
           do
-            echo $i
+            wc -w < $i
           done;
       - run: echo "🍏 This job's status is ${{ job.status }}."
   resultsJob:
