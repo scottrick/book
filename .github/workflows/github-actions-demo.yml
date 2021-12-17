@@ -1,6 +1,7 @@
 name: Word Count
 on:
-  push:
+  pull_request_review:
+    types: [edited, submitted]
     paths:
       - '**.txt'
       - '**.md'
@@ -46,6 +47,11 @@ jobs:
     runs-on: ubuntu-latest
     needs: [countCurrentJob, countPreviousJob]
     steps:
+      - name: Extract branch name
+        shell: bash
+        run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
+        id: extract_branch
+      - run: echo "branch name: ${{ steps.extract_branch.outputs.branch }}"
       - run: echo "Previous word count ${{needs.countPreviousJob.outputs.wordCount}}"
       - run: echo "Current word count ${{needs.countCurrentJob.outputs.wordCount}}"
       - name: Check out repository code
@@ -57,5 +63,5 @@ jobs:
             git config --global user.name "Scott[Bot]"
             git reset HEAD~1
             git add -A
-            git commit -m "test message??"
-            git push -f
+            git commit -m "test message HATFAT !!"
+            # git push -f
