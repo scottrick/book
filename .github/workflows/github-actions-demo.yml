@@ -1,6 +1,7 @@
 name: Word Count
 on:
-  pull_request:
+  pull_request_review:
+    types: [edited, submitted]
     paths:
       - '**.txt'
       - '**.md'
