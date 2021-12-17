@@ -4,7 +4,6 @@ on:
     paths:
       - '**.txt'
       - '**.md'
-      - '**.yml' #delete me
       
 jobs:
   countCurrentJob:
