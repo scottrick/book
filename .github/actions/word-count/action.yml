@@ -6,3 +6,4 @@ runs:
   steps:
     - id: loopcount
       run: echo "::set-output name=count::4949"
+      shell: bash
