@@ -13,7 +13,6 @@ jobs:
         uses: ryanbraganza/word-count-action@v6
         with:
           words: 'Stay inside. Do not go out.'
-          output: count
       - run: echo "Count $count"
       - run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
       - run: echo "🖥️ The workflow is now ready to test your code on the runner."
@@ -21,3 +20,7 @@ jobs:
         run: |
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
+  DisplayCount:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "asdfasdf"
