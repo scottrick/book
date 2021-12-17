@@ -36,7 +36,8 @@ jobs:
           WORD_COUNTER=0
           for i in $(find ./ -type f \( -iname \*.txt -o -iname \*.md \));
           do
-            WORD_COUNTER += wc -w < $i
+            WORD_COUNTER=$(expr $WORD_COUNTER + 1)
+            wc -w < $i
           done;
           echo "::set-output name=count::$WORD_COUNTER"
       - run: echo "🍏 This job's status is ${{ job.status }}."
