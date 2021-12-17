@@ -45,6 +45,6 @@ jobs:
             NEW_WORDS=$((${{needs.countCurrentJob.outputs.wordCount}} - ${{needs.countPreviousJob.outputs.wordCount}}))
             git config --global user.email "scottrick49@gmail.com"
             git config --global user.name "scottrick"
-            git commit --amend -m "Net change of $NEW_WORDS words.  Total word count ${{needs.countCurrentJob.outputs.wordCount}}."  
+            git commit --amend -m "Net change of $NEW_WORDS words.  Total word count is ${{needs.countCurrentJob.outputs.wordCount}}."  
             git push -f
         name: Amend commit message
