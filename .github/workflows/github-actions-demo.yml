@@ -12,7 +12,7 @@ jobs:
       - name: Check out repository code
         uses: actions/checkout@v2
       - id: wordcount
-      - name: Word count
+        name: Word count
         uses: ryanbraganza/word-count-action@v6
         with:
           words: 'Stay inside. Do not go out.'
