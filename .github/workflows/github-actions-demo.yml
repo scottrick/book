@@ -11,6 +11,7 @@ jobs:
     outputs:
       currentWordCount: ${{steps.wordcount.outputs.count}}
       previousWordCount: ${{steps.wordcount.outputs.count}}
+      testCount: ${{steps.loopcount.outputs.count}}
     steps:
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
       - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
@@ -31,12 +32,12 @@ jobs:
         run: |
           wc -w < text/book.txt
       - name: loopcount
-          
         run: |
           for i in $(find ./ -type f \( -iname \*.txt -o -iname \*.md \));
           do
             wc -w < $i
           done;
+          echo "::set-output name=count::49"
       - run: echo "🍏 This job's status is ${{ job.status }}."
   resultsJob:
     runs-on: ubuntu-latest
@@ -44,3 +45,4 @@ jobs:
     steps:
       - run: echo "Current word count ${{needs.countJob.outputs.currentWordCount}}"
       - run: echo "Previous word count ${{needs.countJob.outputs.previousWordCount}}"
+      - run: echo "Test word count ${{needs.countJob.outputs.testCount}}"
