@@ -3,17 +3,19 @@ on: [push]
 jobs:
   job1:
     runs-on: ubuntu-latest
+    outputs:
+      wordcount: ${{steps.wordcount.outputs.count}}
     steps:
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
       - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
       - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
       - name: Check out repository code
         uses: actions/checkout@v2
+      - id: wordcount
       - name: Word count
         uses: ryanbraganza/word-count-action@v6
         with:
           words: 'Stay inside. Do not go out.'
-      - run: echo "Count $count"
       - run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
       - run: echo "🖥️ The workflow is now ready to test your code on the runner."
       - name: List files in the repository
@@ -24,4 +26,4 @@ jobs:
     runs-on: ubuntu-latest
     needs: job1
     steps:
-      - run: echo "word count ${{needs.job1.outputs.count}}"
+      - run: echo "word count ${{needs.job1.outputs.wordcount}}"
