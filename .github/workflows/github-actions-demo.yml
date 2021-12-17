@@ -27,7 +27,7 @@ jobs:
           ls ${{ github.workspace }}
       - name: WC
         run: |
-          wc -w book.txt
+          wc -w < book.txt
       - run: echo "🍏 This job's status is ${{ job.status }}."
   resultsJob:
     runs-on: ubuntu-latest
