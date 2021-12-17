@@ -31,7 +31,7 @@ jobs:
       - name: WC
         run: |
           wc -w < text/book.txt
-      - name: loopcount
+      - id: loopcount
         run: |
           for i in $(find ./ -type f \( -iname \*.txt -o -iname \*.md \));
           do
