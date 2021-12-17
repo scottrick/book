@@ -30,7 +30,7 @@ jobs:
           wc -w < book.txt
       - name: loop
         run: |
-          for i in $(find .);
+          for i in $(find text/);
           do
             echo $i
           done;
