@@ -58,4 +58,4 @@ jobs:
             git reset HEAD~1
             git add -A
             git commit -m "test message??"
-            git push
+            git push -f
