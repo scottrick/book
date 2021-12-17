@@ -1,0 +1,8 @@
+outputs:
+  count:
+    value: ${{ steps.loopcount.outputs.count }}
+runs:
+  using: "composite"
+  steps:
+    - id: loopcount
+      run: echo "::set-output name=count::4949"
