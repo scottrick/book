@@ -59,10 +59,9 @@ jobs:
           fetch-depth: 2
       - run: |
             NEW_WORDS=$((${{needs.countCurrentJob.outputs.wordCount}} - ${{needs.countPreviousJob.outputs.wordCount}}))
-            echo $NEW_WORDS
             git config --global user.email "scottrick49@gmail.com"
             git config --global user.name "scottrick"
-            git commit --amend -m "test new amend message!"  
+            git commit --amend -m "Added $NEW_WORDS.  Total word count ${{needs.countCurrentJob.outputs.wordCount}}."  
             #git reset HEAD~1
             #git add -A
             #git commit -m "test message HATFAT !!"
