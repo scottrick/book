@@ -36,8 +36,8 @@ jobs:
     runs-on: ubuntu-latest
     needs: [countCurrentJob, countPreviousJob]
     steps:
-      - run: echo "Previous word count ${{needs.countPreviousJob.outputs.wordCount}}"
-      - run: echo "Current word count ${{needs.countCurrentJob.outputs.wordCount}}"
+      #- run: echo "Previous word count ${{needs.countPreviousJob.outputs.wordCount}}"
+      #- run: echo "Current word count ${{needs.countCurrentJob.outputs.wordCount}}"
       - name: Check out repository code
         uses: actions/checkout@v2
         with:
@@ -48,3 +48,4 @@ jobs:
             git config --global user.name "scottrick"
             git commit --amend -m "Net word change of $NEW_WORDS words.  Total word count ${{needs.countCurrentJob.outputs.wordCount}}."  
             git push -f
+        name: Amend commit message
