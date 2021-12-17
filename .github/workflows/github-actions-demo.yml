@@ -22,5 +22,6 @@ jobs:
       - run: echo "🍏 This job's status is ${{ job.status }}."
   DisplayCount:
     runs-on: ubuntu-latest
+    needs: Explore-GitHub-Actions
     steps:
       - run: echo "asdfasdf"
