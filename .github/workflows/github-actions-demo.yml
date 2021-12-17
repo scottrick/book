@@ -55,7 +55,7 @@ jobs:
       - run: |
             git config --global user.email "scottrick49@gmail.com"
             git config --global user.name "Scott[Bot]"
-            git checkout HEAD~1
+            git reset HEAD~1
             git add -A
             git commit -m "test message??"
             git push
