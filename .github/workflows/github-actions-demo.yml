@@ -1,6 +1,6 @@
 name: Word Count
 on:
-  pull_request:
+  push:
     paths:
       - '**.txt'
       - '**.md'
