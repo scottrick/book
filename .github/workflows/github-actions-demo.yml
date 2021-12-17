@@ -2,7 +2,7 @@ name: Word Count
 on:
   push:
     paths-ignore:
-      - '.github/**'
+      - '.githubX/**'
 jobs:
   countJob:
     runs-on: ubuntu-latest
