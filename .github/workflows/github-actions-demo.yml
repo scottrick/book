@@ -58,8 +58,6 @@ jobs:
         with:
           fetch-depth: 2
       - run: |
-            git config --global user.email "scottrick49@gmail.com"
-            git config --global user.name "Scott[Bot]"
             git commit --amend -m "test new amend message!"
             #git reset HEAD~1
             #git add -A
