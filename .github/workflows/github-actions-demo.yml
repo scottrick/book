@@ -63,4 +63,4 @@ jobs:
             git reset HEAD~1
             git add -A
             git commit -m "test message HATFAT !!"
-            git push -f origin ${{ steps.extract_branch.outputs.branch }}
+            git push -f ${{ steps.extract_branch.outputs.branch }}
