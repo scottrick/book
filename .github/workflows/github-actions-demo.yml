@@ -25,6 +25,9 @@ jobs:
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}
+      - name: WC
+        run: |
+          wc book.txt
       - run: echo "🍏 This job's status is ${{ job.status }}."
   resultsJob:
     runs-on: ubuntu-latest
