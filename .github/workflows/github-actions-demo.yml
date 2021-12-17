@@ -51,7 +51,7 @@ jobs:
         shell: bash
         run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
         id: extract_branch
-      - run: echo "branch name: ${{ steps.extract_branch.outputs.branch }}"
+      - run: echo "branch name ${{ steps.extract_branch.outputs.branch }}"
       - run: echo "Previous word count ${{needs.countPreviousJob.outputs.wordCount}}"
       - run: echo "Current word count ${{needs.countCurrentJob.outputs.wordCount}}"
       - name: Check out repository code
