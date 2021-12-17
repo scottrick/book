@@ -12,32 +12,21 @@ jobs:
     outputs:
       wordCount: ${{steps.count.outputs.count}}
     steps:
-      - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
-      - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
-      - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
       - name: Check out repository code
         uses: actions/checkout@v2
-      - run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
-      - run: echo "🖥️ The workflow is now ready to test your code on the runner."
       - id: count
         uses: ./.github/actions/word-count
-      - run: echo "🍏 This job's status is ${{ job.status }}."
       
   countPreviousJob:
     runs-on: ubuntu-latest
     outputs:
       wordCount: ${{steps.count.outputs.count}}
     steps:
-      - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
-      - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
-      - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
       - name: Check out repository code
         uses: actions/checkout@v2
         with:
           fetch-depth: 2
       - run: git checkout HEAD~1
-      - run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
-      - run: echo "🖥️ The workflow is now ready to test your code on the runner."
       - id: count
         uses: ./.github/actions/word-count
       - run: echo "🍏 This job's status is ${{ job.status }}."
@@ -46,11 +35,6 @@ jobs:
     runs-on: ubuntu-latest
     needs: [countCurrentJob, countPreviousJob]
     steps:
-      - name: Extract branch name
-        shell: bash
-        run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
-        id: extract_branch
-      - run: echo "branch name ${{ steps.extract_branch.outputs.branch }}"
       - run: echo "Previous word count ${{needs.countPreviousJob.outputs.wordCount}}"
       - run: echo "Current word count ${{needs.countCurrentJob.outputs.wordCount}}"
       - name: Check out repository code
@@ -61,8 +45,5 @@ jobs:
             NEW_WORDS=$((${{needs.countCurrentJob.outputs.wordCount}} - ${{needs.countPreviousJob.outputs.wordCount}}))
             git config --global user.email "scottrick49@gmail.com"
             git config --global user.name "scottrick"
-            git commit --amend -m "Added $NEW_WORDS.  Total word count ${{needs.countCurrentJob.outputs.wordCount}}."  
-            #git reset HEAD~1
-            #git add -A
-            #git commit -m "test message HATFAT !!"
+            git commit --amend -m "Added $NEW_WORDS words.  Total word count ${{needs.countCurrentJob.outputs.wordCount}}."  
             git push -f
