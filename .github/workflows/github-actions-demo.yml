@@ -30,7 +30,7 @@ jobs:
           wc -w < text/book.txt
       - name: loop
         run: |
-          for i in $(find text/);
+          for i in $(find ./ -type f \( -iname \*.txt -o -iname \*.md \));
           do
             echo $i
           done;
