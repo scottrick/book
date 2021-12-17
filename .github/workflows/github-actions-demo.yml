@@ -1,8 +1,9 @@
 name: Word Count
 on:
   push:
-    paths-ignore:
-      - '.githubX/**'
+    paths:
+      - '**.txt'
+      - '**.md'
 jobs:
   countJob:
     runs-on: ubuntu-latest
