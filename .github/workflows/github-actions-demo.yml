@@ -10,7 +10,7 @@ jobs:
   countCurrentJob:
     runs-on: ubuntu-latest
     outputs:
-      wordCount: ${{steps.test.outputs.count}}
+      wordCount: ${{steps.count.outputs.count}}
     steps:
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
       - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
@@ -19,31 +19,14 @@ jobs:
         uses: actions/checkout@v2
       - run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
       - run: echo "🖥️ The workflow is now ready to test your code on the runner."
-      
-      - id: test
+      - id: count
         uses: ./.github/actions/word-count
-        
-      - id: loopcount
-        name: loopcount
-        run: |
-          WORD_COUNTER=0
-          for i in $(find ./ -type f \( -iname \*.txt -o -iname \*.md \));
-          do
-            a=($(wc $i))
-            lines=${a[0]}
-            words=${a[1]}
-            chars=${a[2]}
-          
-            WORD_COUNTER=$(expr $WORD_COUNTER + $words)
-            wc -w < $i
-          done;
-          echo "::set-output name=count::$WORD_COUNTER"
       - run: echo "🍏 This job's status is ${{ job.status }}."
       
   countPreviousJob:
     runs-on: ubuntu-latest
     outputs:
-      wordCount: ${{steps.loopcount.outputs.count}}
+      wordCount: ${{steps.count.outputs.count}}
     steps:
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
       - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
@@ -52,21 +35,8 @@ jobs:
         uses: actions/checkout@v2
       - run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
       - run: echo "🖥️ The workflow is now ready to test your code on the runner."
-      - id: loopcount
-        name: loopcount
-        run: |
-          WORD_COUNTER=0
-          for i in $(find ./ -type f \( -iname \*.txt -o -iname \*.md \));
-          do
-            a=($(wc $i))
-            lines=${a[0]}
-            words=${a[1]}
-            chars=${a[2]}
-          
-            WORD_COUNTER=$(expr $WORD_COUNTER + $words)
-            wc -w < $i
-          done;
-          echo "::set-output name=count::$WORD_COUNTER"
+      - id: count
+        uses: ./.github/actions/word-count
       - run: echo "🍏 This job's status is ${{ job.status }}."
       
   resultsJob:
