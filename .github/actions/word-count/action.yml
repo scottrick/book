@@ -7,7 +7,7 @@ runs:
     - id: loopcount
       run: |
           WORD_COUNTER=0
-          for i in $(find ./ -type f \( -iname \*.txt \));
+          for i in $(find ./ -type f \( -iname \*.txt -o \));
           do
             a=($(wc $i))
             lines=${a[0]}
